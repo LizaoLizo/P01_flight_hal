@@ -1,0 +1,25 @@
+# Keil generated folders
+**/Objects/
+**/Listings/
+
+# Compiled output
+*.o
+*.obj
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.d
+*.crf
+*.dep
+
+# Keil user-specific settings
+*.uvgui*
+*.uvoptx
+
+# Temporary files
+*.bak
+*.tmp
+*.log
